@@ -1,5 +1,4 @@
-# Laporan Proyek Machine Learning
-### Muhammad Ilham Ramadhan - MC004D5Y2072
+# Prediksi Harga Saham Tesla Berbasis Time Series Menggunakan LSTM dan GRU
 
 ## Domain Proyek
 <p align="center">
